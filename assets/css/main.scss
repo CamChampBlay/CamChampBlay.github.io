@@ -11,3 +11,7 @@ $brand-color: #fede00;  /* change this if you want a different yellow */
 main, .page, .post, .page-content, .post-list {
   background: transparent !important;
 }
+
+h2.home-title {
+  display: none;
+}
