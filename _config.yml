@@ -1,23 +1,15 @@
 title: "Votre Nom"
 description: "Portfolio, articles et créations"
-url: "https://your-username.github.io"
-baseurl: ""
+url: "https://camchampblay.github.io"
+baseurl: ""                     # user site => keep empty
 
 remote_theme: patdryburgh/hitchens
 
-# Optional plugins for local preview & pagination
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
 
-paginate: 10
-paginate_path: "/page/:num/"
-
-# Theme options
 show_excerpts: true
 excerpt_length: 24
-hide_search: false
-hide_credits: false
-
-# Build settings 
-markdown: kramdown
+paginate: 10
+paginate_path: "/page/:num/"
