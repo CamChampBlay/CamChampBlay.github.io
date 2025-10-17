@@ -19,5 +19,5 @@ excerpt_length: 24
 hide_search: false
 hide_credits: false
 
-# Build settings
+# Build settings 
 markdown: kramdown
