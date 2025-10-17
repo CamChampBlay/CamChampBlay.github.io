@@ -1,0 +1,13 @@
+---
+---
+
+/* 1) (optional) set your brand background */
+$brand-color: #fede00;  /* change this if you want a different yellow */
+
+/* 2) import the theme's styles */
+@import "hitchens";
+
+/* 3) override white panels so the yellow shows everywhere */
+main, .page, .post, .page-content, .post-list {
+  background: transparent !important;
+}
