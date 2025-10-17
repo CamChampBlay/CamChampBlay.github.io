@@ -13,3 +13,4 @@ show_excerpts: true
 excerpt_length: 24
 paginate: 10
 paginate_path: "/page/:num/"
+hide_credits: true
